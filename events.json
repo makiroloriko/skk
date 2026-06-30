@@ -1,16 +1,5 @@
 [
   {
-    "title": "TEST",
-    "description": "",
-    "type": "cell_group",
-    "date": "2026-07-01",
-    "time": "19:00",
-    "location": "tEST",
-    "host": "tEST",
-    "id": "ev-eoeuiverk",
-    "attendees": []
-  },
-  {
     "title": "Add",
     "description": "Add",
     "type": "join_cg",
