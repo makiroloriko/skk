@@ -22,5 +22,27 @@
     "maxAttendees": 10,
     "id": "ev-vds1sszwu",
     "attendees": []
+  },
+  {
+    "title": "CG-REST",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-07-13",
+    "time": "19:00",
+    "location": "N/A",
+    "host": "N/A",
+    "id": "ev-fozzqbdr0",
+    "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-07-20",
+    "time": "20:00",
+    "location": "N/A",
+    "host": "ToTo",
+    "id": "ev-rirskop55",
+    "attendees": []
   }
 ]
