@@ -10,5 +10,17 @@
     "maxAttendees": 100,
     "id": "ev-7igqyifw6",
     "attendees": []
+  },
+  {
+    "title": "tet",
+    "description": "tsts",
+    "type": "evangelism",
+    "date": "2026-06-04",
+    "time": "19:00",
+    "location": "sad",
+    "host": "sdaasd",
+    "maxAttendees": 10,
+    "id": "ev-jldecfpwp",
+    "attendees": []
   }
 ]
