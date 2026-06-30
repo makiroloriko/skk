@@ -1,27 +1,5 @@
 [
   {
-    "id": "evt-1782670871420-6qwrw1h9j",
-    "title": "Test",
-    "description": "",
-    "startDate": "2026-05-31",
-    "startTime": "09:00",
-    "endDate": "2026-05-31",
-    "endTime": "10:00",
-    "category": "work",
-    "color": "indigo"
-  },
-  {
-    "id": "evt-1782675357149-nd61upe1y",
-    "title": "erwrewrwe",
-    "description": "",
-    "startDate": "2026-06-01",
-    "startTime": "09:00",
-    "endDate": "2026-06-01",
-    "endTime": "10:00",
-    "category": "work",
-    "color": "indigo"
-  },
-  {
     "title": "TEST",
     "description": "",
     "type": "cell_group",
