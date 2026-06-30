@@ -34,5 +34,17 @@
     "maxAttendees": 100,
     "id": "ev-igsp0j2lf",
     "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-07-20",
+    "time": "19:00",
+    "location": "N/A",
+    "host": "Toto",
+    "maxAttendees": 100,
+    "id": "ev-3x831mvin",
+    "attendees": []
   }
 ]
