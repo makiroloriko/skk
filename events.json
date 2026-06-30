@@ -9,5 +9,17 @@
     "host": "tEST",
     "id": "ev-eoeuiverk",
     "attendees": []
+  },
+  {
+    "title": "Add",
+    "description": "Add",
+    "type": "join_cg",
+    "date": "2026-06-08",
+    "time": "19:06",
+    "location": "w",
+    "host": "w",
+    "maxAttendees": 1,
+    "id": "ev-mpmxiecun",
+    "attendees": []
   }
 ]
