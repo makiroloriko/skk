@@ -46,5 +46,16 @@
     "maxAttendees": 100,
     "id": "ev-3x831mvin",
     "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-07-27",
+    "time": "19:00",
+    "location": "N/A",
+    "host": "N/A",
+    "id": "ev-t70qr7lrs",
+    "attendees": []
   }
 ]
