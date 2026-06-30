@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-06-29",
+    "time": "19:00",
+    "location": "Peter's Place",
+    "host": "Wayne",
+    "maxAttendees": 20,
+    "id": "ev-wanll6rau",
+    "attendees": []
+  }
+]
