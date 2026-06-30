@@ -9,13 +9,6 @@
     "host": "twetwe",
     "maxAttendees": 100,
     "id": "ev-7igqyifw6",
-    "attendees": [
-      {
-        "name": "Joel Macasero",
-        "email": "joel.a.macasero@gmail.com",
-        "phone": "09196681982",
-        "joinedAt": "2026-06-30T10:39:04.792Z"
-      }
-    ]
+    "attendees": []
   }
 ]
