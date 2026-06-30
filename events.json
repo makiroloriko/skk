@@ -9,18 +9,13 @@
     "host": "twetwe",
     "maxAttendees": 100,
     "id": "ev-7igqyifw6",
-    "attendees": []
-  },
-  {
-    "title": "tet",
-    "description": "tsts",
-    "type": "evangelism",
-    "date": "2026-06-04",
-    "time": "19:00",
-    "location": "sad",
-    "host": "sdaasd",
-    "maxAttendees": 10,
-    "id": "ev-jldecfpwp",
-    "attendees": []
+    "attendees": [
+      {
+        "name": "Joel Macasero",
+        "email": "joel.a.macasero@gmail.com",
+        "phone": "09196681982",
+        "joinedAt": "2026-06-30T10:39:04.792Z"
+      }
+    ]
   }
 ]
