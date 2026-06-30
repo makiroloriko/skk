@@ -10,5 +10,17 @@
     "maxAttendees": 20,
     "id": "ev-wanll6rau",
     "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-07-06",
+    "time": "19:00",
+    "location": "N/A",
+    "host": "JEEVE",
+    "maxAttendees": 10,
+    "id": "ev-vds1sszwu",
+    "attendees": []
   }
 ]
