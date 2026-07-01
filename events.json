@@ -24,13 +24,13 @@
     "attendees": []
   },
   {
-    "title": "CG",
-    "description": "CG",
+    "title": "CG- SKK Small Group",
+    "description": "CG- SKK Small Group",
     "type": "cell_group",
     "date": "2026-07-13",
     "time": "20:00",
     "location": "TBA",
-    "host": "Toto",
+    "host": "Small Group Assignee",
     "maxAttendees": 100,
     "id": "ev-igsp0j2lf",
     "attendees": []
