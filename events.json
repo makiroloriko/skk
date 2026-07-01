@@ -104,5 +104,28 @@
     "maxAttendees": 100,
     "id": "ev-dxhqcsy2w",
     "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-08-31",
+    "time": "20:00",
+    "location": "TBA",
+    "host": "Allen",
+    "maxAttendees": 100,
+    "id": "ev-znpp2rjmt",
+    "attendees": []
+  },
+  {
+    "title": "CG- SKK Small Group",
+    "description": "CG- SKK Small Group",
+    "type": "cell_group",
+    "date": "2026-09-07",
+    "time": "20:00",
+    "location": "TBA",
+    "host": "Small Group Assignee",
+    "id": "ev-td2yblheo",
+    "attendees": []
   }
 ]
