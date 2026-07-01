@@ -48,14 +48,26 @@
     "attendees": []
   },
   {
-    "title": "CG / Join CG",
-    "description": "CG",
-    "type": "join_cg",
+    "title": "CG-REST",
+    "description": "CG-REST",
+    "type": "cell_group",
     "date": "2026-07-27",
     "time": "20:00",
-    "location": "TBA",
-    "host": "TBA",
+    "location": "N/A",
+    "host": "N/A",
     "id": "ev-t70qr7lrs",
+    "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-08-03",
+    "time": "20:00",
+    "location": "TBA",
+    "host": "TAY TON",
+    "maxAttendees": 100,
+    "id": "ev-t4ekdrrdl",
     "attendees": []
   }
 ]
