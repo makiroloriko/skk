@@ -127,5 +127,28 @@
     "host": "Small Group Assignee",
     "id": "ev-td2yblheo",
     "attendees": []
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-09-14",
+    "time": "19:00",
+    "location": "TBA",
+    "host": "Jun Maynard",
+    "maxAttendees": 100,
+    "id": "ev-e8j6qxhkb",
+    "attendees": []
+  },
+  {
+    "title": "CG-REST",
+    "description": "CG-REST",
+    "type": "cell_group",
+    "date": "2026-09-21",
+    "time": "19:00",
+    "location": "N/A",
+    "host": "N/A",
+    "id": "ev-lx8jn8qmf",
+    "attendees": []
   }
 ]
