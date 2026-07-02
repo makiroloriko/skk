@@ -13,13 +13,13 @@
   },
   {
     "title": "CG",
-    "description": "CG",
+    "description": "CG - With Tay Bob",
     "type": "cell_group",
     "date": "2026-07-06",
-    "time": "19:00",
+    "time": "20:00",
     "location": "N/A",
-    "host": "JEEVE",
-    "maxAttendees": 10,
+    "host": "Pastor Bob",
+    "maxAttendees": 100,
     "id": "ev-vds1sszwu",
     "attendees": []
   },
