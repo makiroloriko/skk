@@ -72,24 +72,24 @@
     "attendees": []
   },
   {
-    "title": "CG- SKK Small Group",
-    "description": "CG- SKK Small Group",
+    "title": "CG",
+    "description": "CG",
     "type": "cell_group",
     "date": "2026-08-10",
     "time": "20:00",
     "location": "TBA",
-    "host": "Small Group Assignee",
+    "host": "TOTO",
     "id": "ev-chmg0r1eb",
     "attendees": []
   },
   {
-    "title": "CG",
-    "description": "CG",
+    "title": "CG-REST",
+    "description": "CG-REST",
     "type": "cell_group",
     "date": "2026-08-17",
     "time": "19:00",
-    "location": "TBA",
-    "host": "Jojo",
+    "location": "N/A",
+    "host": "N/A",
     "maxAttendees": 100,
     "id": "ev-cae8ng73p",
     "attendees": []
