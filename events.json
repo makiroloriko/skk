@@ -130,13 +130,13 @@
     "attendees": []
   },
   {
-    "title": "CG",
-    "description": "CG",
+    "title": "CG-REST",
+    "description": "CG-REST",
     "type": "cell_group",
     "date": "2026-09-14",
     "time": "19:00",
-    "location": "TBA",
-    "host": "Jun Maynard",
+    "location": "N/A",
+    "host": "N/A",
     "maxAttendees": 100,
     "id": "ev-e8j6qxhkb",
     "attendees": []
