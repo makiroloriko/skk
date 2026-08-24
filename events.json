@@ -152,5 +152,16 @@
     "id": "ev-lx8jn8qmf",
     "attendees": [],
     "maxAttendees": 100
+  },
+  {
+    "title": "CG",
+    "description": "CG",
+    "type": "cell_group",
+    "date": "2026-09-28",
+    "time": "19:00",
+    "location": "TBA",
+    "host": "Allen",
+    "id": "ev-gy347sp90",
+    "attendees": []
   }
 ]
